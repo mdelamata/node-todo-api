@@ -71,3 +71,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Remove the configuration json for the server
+server/config/config.json
